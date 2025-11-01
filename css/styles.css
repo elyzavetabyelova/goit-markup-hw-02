@@ -12,6 +12,7 @@ a {
     text-decoration: none
 }
 .nav-logo {
+        font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
@@ -37,18 +38,9 @@ a {
     color: #404bbf;
 }
 
-.contacts {
-    font-style: normal;
-}
-
-.contacts-address {
-    font-style: normal
-}
-
 .contacts-link {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -90,6 +82,7 @@ a {
 .features-title {
     font-weight: 700;
     font-size: 36px;
+    text-align: center;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -105,7 +98,6 @@ a {
 }
 
 .feature-item-paragraph {
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -157,7 +149,6 @@ a {
 }
 
 .portfolio-paragraph {
-    font-weight: 400;
     line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.02em;
@@ -169,7 +160,8 @@ a {
 }
 
 .footer-logo {
-    font-weight: 700;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -186,8 +178,6 @@ a {
 }
 
 .footer-paragraph {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
