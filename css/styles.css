@@ -22,7 +22,7 @@ a {
 }
 
 .nav-logo-text {
-    color: #434455;
+    color: #2e2f42;
 }
 
 .nav-link {
@@ -36,6 +36,10 @@ a {
 .nav-link:hover,
 .nav-link:focus {
     color: #404bbf;
+}
+
+.contacts-address {
+    font-style: normal;
 }
 
 .contacts-link {
@@ -64,6 +68,7 @@ a {
 }
 
 .hero-button {
+    font-family: "Roboto", sans-serif;
     background-color: #4d5ae5;
     color: #fff;
     font-size: 16px;
@@ -174,7 +179,7 @@ a {
 }
 
 .footer-logo-text {
-    color: #434455;
+    color: #f4f4fd;
 }
 
 .footer-paragraph {
